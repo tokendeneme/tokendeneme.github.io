@@ -5,6 +5,23 @@
    color: #683aa4;
 }
 
+a.contract-link{
+  color: white;
+  text-decoration: none;
+}
+
+a.contract-link:hover{
+  color: #9664d9;
+}
+
+.navbar-nav{
+  font-size: 18px;
+}
+
+body {
+  font-family: 'Montserrat';
+}
+
 .rounded-4 { border-radius: .5rem; }
 .rounded-5 { border-radius: 1rem; }
 
